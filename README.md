@@ -44,6 +44,9 @@ luckily there is a baseball bat lying beside the overturned car in the middle of
 **[take the bat and run]**
 
 ---
+
+## [Stay and Fight]
+you pick up the bat and get a firm grip. the monster humans are closing in from every direction. you swing at one in the head with all you force and killed it. you begin to to climb the overturnned car and defend yourself. you are outnumbered as they begin to scale the car. the monster humans surround you and tear you apart.
 ## [take the bat and run]
 You know you are outnumbered and the bat won't be enough to fight back but you take it anyway and look for the safest spot to lay low.  Suddenly you find a car that damaged but working with the keys inside.
 
@@ -60,3 +63,10 @@ You drive for several miles, finally feeling some semblance of safety as the hum
 **[try and find other people]**
 
 ---
+## [stay on feet to be more discrete]
+While the car does seem safe you don't know what else is out there nor how long the car will last.  You choose to keep on your feet to not draw attention and keep collecting random items.  Then you come across 
+wild zebras that escaped the zoo.
+
+**[take one down to eat]**
+
+**[ignore them and keep moving]**
