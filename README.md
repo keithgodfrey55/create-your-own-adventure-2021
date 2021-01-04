@@ -70,3 +70,10 @@ wild zebras that escaped the zoo.
 **[take one down to eat]**
 
 **[ignore them and keep moving]**
+
+---
+## [take one down to eat]
+You've never taken down a zebra, but hunger doesn't discriminate. Your only weapon is the bat but you can make it work. After you take the zebra down, you use a lighter you collected to start a fire and cook some of the meat. Then you notice it's getting dark. Do you:
+
+**[find a place to sleep where you are]**
+**[continue exploring]**
