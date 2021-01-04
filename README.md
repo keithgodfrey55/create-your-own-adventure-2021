@@ -53,3 +53,11 @@ You know you are outnumbered and the bat won't be enough to fight back but you t
 **[jump in the car and drive wherever]**
 
 **[stay on feet to be more discrete]**
+
+## [stay on feet to be more discrete]
+While the car does seem safe you don't know what else is out there nor how long the car will last.  You choose to keep on your feet to not draw attention and keep collecting random items.  Then you come across 
+wild zebras that escaped the zoo.
+
+**[take one down to eat]**
+
+**[ignore them and keep moving]**
