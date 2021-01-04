@@ -36,7 +36,7 @@ You try to sneak pass the monster humans unnoticed. As they approach near to you
 
 ---
 
-**[grab every object you can and get ready to fight them]**
+## [grab every object you can and get ready to fight them]
 luckily there is a baseball bat lying beside the overturned car in the middle of the road. you rush over to grab the weapon, but doing so you kick a glass bottle which attracted more human monsters. 
 
 **[stay and fight]**
@@ -47,3 +47,9 @@ luckily there is a baseball bat lying beside the overturned car in the middle of
 
 ## [Stay and Fight]
 you pick up the bat and get a firm grip. the monster humans are closing in from every direction. you swing at one in the head with all you force and killed it. you begin to to climb the overturnned car and defend yourself. you are outnumbered as they begin to scale the car. the monster humans surround you and tear you apart.
+## [take the bat and run]
+You know you are outnumbered and the bat won't be enough to fight back but you take it anyway and look for the safest spot to lay low.  Suddenly you find a car that damaged but working with the keys inside.
+
+**[jump in the car and drive wherever]**
+
+**[stay on feet to be more discrete]**
