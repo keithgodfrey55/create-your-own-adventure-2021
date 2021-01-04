@@ -77,3 +77,11 @@ You've never taken down a zebra, but hunger doesn't discriminate. Your only weap
 
 **[find a place to sleep where you are]**
 **[continue exploring]**
+## [Find a safe place to stay]
+Your safety comes first and for most. So the best option for now was to find a safe place to stay. You drive a few more miles until you find a rundown factory. You decide to check out the place for any materials you can use. Then you hear a scream coming from the building.
+
+**[check out where the scream is coming from]**
+
+**[turn around and run]**
+
+---
