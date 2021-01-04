@@ -24,3 +24,10 @@ You enter the ransacked store, stepping over a variety of broken goods and produ
 
 **[enter the employee room and investigate the smell of this bacon]**
 **[opt for some other food]**
+
+---
+## [Try to get passed the monster humans unnoticed]
+You try to sneak pass the monster humans unnoticed. As they approach near to your area, you hide somewhere near by. Suddenly a hand grabs your shoulder, you turn around ready to shoot but notice it's another person. "Follow me" he says
+
+**[follow the stranger]**
+**[ignore him]**
