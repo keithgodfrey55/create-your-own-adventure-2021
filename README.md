@@ -2,7 +2,7 @@
 
 ## [START]
 
-you wake up one day in a post apocolypltic world. youre alone, however there is a rilfle across the street and a store that has been raided. 
+you wake up one day in a post apocalyptic world. youre alone, however there is a rilfle across the street and a store that has been raided. 
 
 **[walk towards the rifle]**
 
@@ -72,6 +72,11 @@ wild zebras that escaped the zoo.
 **[ignore them and keep moving]**
 
 ---
+## [take one down to eat]
+You've never taken down a zebra, but hunger doesn't discriminate. Your only weapon is the bat but you can make it work. After you take the zebra down, you use a lighter you collected to start a fire and cook some of the meat. Then you notice it's getting dark. Do you:
+
+**[find a place to sleep where you are]**
+**[continue exploring]**
 ## [Find a safe place to stay]
 Your safety comes first and for most. So the best option for now was to find a safe place to stay. You drive a few more miles until you find a rundown factory. You decide to check out the place for any materials you can use. Then you hear a scream coming from the building.
 
