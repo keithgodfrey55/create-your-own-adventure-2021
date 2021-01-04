@@ -80,3 +80,11 @@ Your safety comes first and for most. So the best option for now was to find a s
 **[turn around and run]**
 
 ---
+## [Ignore Them and Keep moving]
+You don't have time to play with any animals right now. So you ignore them and keep moving. Suddenly the noise from the animals caused the monsters to run in your direction.
+
+**[Do you finally stay and fight]**
+
+**[Try to hide among the zebras]**
+
+---
