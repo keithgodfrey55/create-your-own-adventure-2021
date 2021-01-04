@@ -2,7 +2,7 @@
 
 ## [START]
 
-you wake up one day in a post apocolypltic world. youre alone, however there is a rilfle across the street and a store that has been raided. 
+you wake up one day in a post apocalyptic world. youre alone, however there is a rilfle across the street and a store that has been raided. 
 
 **[walk towards the rifle]**
 
