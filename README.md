@@ -50,3 +50,13 @@ You know you are outnumbered and the bat won't be enough to fight back but you t
 **[jump in the car and drive wherever]**
 
 **[stay on feet to be more discrete]**
+
+---
+## [jump in car and drive wherever]
+You drive for several miles, finally feeling some semblance of safety as the human monsters disappear into the rearview, but now you start lookin toward next steps. What do I need to do to survive? Do you:
+
+**[find a safe place to stay]**
+
+**[try and find other people]**
+
+---
