@@ -44,3 +44,9 @@ luckily there is a baseball bat lying beside the overturned car in the middle of
 **[take the bat and run]**
 
 ---
+## [take the bat and run]
+You know you are outnumbered and the bat won't be enough to fight back but you take it anyway and look for the safest spot to lay low.  Suddenly you find a car that damaged but working with the keys inside.
+
+**[jump in the car and drive wherever]**
+
+**[stay on feet to be more discrete]**
