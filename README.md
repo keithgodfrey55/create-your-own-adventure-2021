@@ -36,7 +36,7 @@ You try to sneak pass the monster humans unnoticed. As they approach near to you
 
 ---
 
-**[grab every object you can and get ready to fight them]**
+## [grab every object you can and get ready to fight them]
 luckily there is a baseball bat lying beside the overturned car in the middle of the road. you rush over to grab the weapon, but doing so you kick a glass bottle which attracted more human monsters. 
 
 **[stay and fight]**
