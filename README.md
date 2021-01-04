@@ -44,3 +44,6 @@ luckily there is a baseball bat lying beside the overturned car in the middle of
 **[take the bat and run]**
 
 ---
+
+## [Stay and Fight]
+you pick up the bat and get a firm grip. the monster humans are closing in from every direction. you swing at one in the head with all you force and killed it. you begin to to climb the overturnned car and defend yourself. you are outnumbered as they begin to scale the car. the monster humans surround you and tear you apart.
