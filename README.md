@@ -135,3 +135,11 @@ Life is great should I stay and fight? Yes I have to defend my honor!!
 **[What is your strategy to win]**
 
 **[Do you go and call for help]**
+
+## [Do You Go and Call For Help]
+
+Luckily an animal god came to my rescue. I am so grateful.
+
+** [How do you I show my gratitue]**
+
+** [Where do I go from here]**
