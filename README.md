@@ -10,7 +10,7 @@ you wake up one day in a post apocalyptic world. youre alone, however there is a
 
 ---
 
-## [Walk towrads the rifle]
+## [Walk towards the rifle]
 
 You walk over to the rifle and it only has on shot left. You wonder if you can find more bullets and possibly anything edible but instead come across some humans that don't look normal and are acting terrifying.
 
