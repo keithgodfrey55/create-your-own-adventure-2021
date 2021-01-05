@@ -71,7 +71,15 @@ wild zebras that escaped the zoo.
 
 **[ignore them and keep moving]**
 
+## [Enter the employee room and investigate the smell of bacon]
+You enter the store and find fresh bacon that looks professionally made and wonder where it came from.  You find traces of soda cans and suddenly you hear the toilet flush in the store bathroom.  Out comes a woman who is physically fit and looks like she can fight.
+
+**[introduce yourself and offer to team up with her]**
+
+**[keep to yourself because you think she will see you as a drawback]**
+
 ---
+
 ## [take one down to eat]
 You've never taken down a zebra, but hunger doesn't discriminate. Your only weapon is the bat but you can make it work. After you take the zebra down, you use a lighter you collected to start a fire and cook some of the meat. Then you notice it's getting dark. Do you:
 
@@ -93,3 +101,4 @@ You don't have time to play with any animals right now. So you ignore them and k
 **[Try to hide among the zebras]**
 
 ---
+
