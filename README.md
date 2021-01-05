@@ -151,18 +151,22 @@ Life is great should I stay and fight? Yes I have to defend my honor!!
 
 **[Do you go and call for help]**
 
+---
+
 ## [Do You Go and Call For Help]
 
 Luckily an animal god came to my rescue. I am so grateful.
 
-** [How do you I show my gratitue]**
+**[How do I show my gratitude]**
 
-** [Where do I go from here]**
+**[Where do I go from here]**
 
-## [How do you I show my gratitude]
+---
+
+## [How Do I Show My Gratitude]
 
 Dear god I thank you for saving my life. I want to give you this pearl I got from another world.
 
-** [What should I do if he rejects the gift]**
+**[What should I do if he rejects the gift]**
 
-** [Where do I go from here]**
+**[Where do I go from here]**
