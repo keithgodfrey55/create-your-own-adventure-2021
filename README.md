@@ -61,3 +61,12 @@ wild zebras that escaped the zoo.
 **[take one down to eat]**
 
 **[ignore them and keep moving]**
+
+## [Enter the employee room and investigate the smell of bacon]
+You enter the store and find fresh bacon that looks professionally made and wonder where it came from.  You find traces of soda cans and suddenly you hear the toilet flush in the store bathroom.  Out comes a woman who is physically fit and looks like she can fight.
+
+**[introduce yourself and offer to team up with her]**
+
+**[keep to yourself because you think she will see you as a drawback]**
+
+---
