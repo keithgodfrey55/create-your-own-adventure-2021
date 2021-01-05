@@ -93,6 +93,12 @@ Your safety comes first and for most. So the best option for now was to find a s
 **[turn around and run]**
 
 ---
+
+## [opt for some other food]
+You walk around the store and collect some food items that you think will last. Some beef jerky, cereal, power bars, and some water. Fully kitted now and hunger sated, you leave the store. Down the street, you see the a horde of monster humans attacking another person. Armed with nothing, do you:
+
+**[risk your life and try to save them]**
+**[cut your losses and move on]**
 ## [Ignore Them and Keep moving]
 You don't have time to play with any animals right now. So you ignore them and keep moving. Suddenly the noise from the animals caused the monsters to run in your direction.
 
