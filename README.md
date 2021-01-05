@@ -2,7 +2,7 @@
 
 ## [START]
 
-you wake up one day in a post apocalyptic world. youre alone, however there is a rifle across the street and a store that has been raided.
+you wake up one day in a post apocalyptic world. you're alone, however there is a rifle across the street and a store that has been raided. 
 
 **[walk towards the rifle]**
 
@@ -101,6 +101,10 @@ You've never taken down a zebra, but hunger doesn't discriminate. Your only weap
 
 **[continue exploring]**
 
+<<<<<<< HEAD
+---
+=======
+>>>>>>> 94a87a33cc82bdd4f1ccf28d9538b1dce09b46bc
 ## [Find a safe place to stay]
 
 Your safety comes first and for most. So the best option for now was to find a safe place to stay. You drive a few more miles until you find a rundown factory. You decide to check out the place for any materials you can use. Then you hear a scream coming from the building.
@@ -127,6 +131,19 @@ You don't have time to play with any animals right now. So you ignore them and k
 **[Try to hide among the zebras]**
 
 ---
+<<<<<<< HEAD
+## [Opt For some other Food]
+In a post apocalyptic world where there is nothing but scraps lying around, you find it hard to believe you smell bacon.
+So you focus on finding as much food to survive. You pack a decent amount of food in a bagpack that was lying around.
+As you exit the store, He have it in your head that you to find a vehicle. There was a motorcycle a block from here, But there was 
+also monster near it 
+
+**[take a risk and get the motorcycle]**
+
+**[find another vehicle]**
+
+---
+=======
 
 ## [Do you finally stay and fight]
 
@@ -135,3 +152,4 @@ Life is great should I stay and fight? Yes I have to defend my honor!!
 **[What is your strategy to win]**
 
 **[Do you go and call for help]**
+>>>>>>> 94a87a33cc82bdd4f1ccf28d9538b1dce09b46bc
