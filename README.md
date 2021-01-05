@@ -83,6 +83,14 @@ wild zebras that escaped the zoo.
 
 **[ignore them and keep moving]**
 
+## [Enter the employee room and investigate the smell of bacon]
+
+You enter the store and find fresh bacon that looks professionally made and wonder where it came from. You find traces of soda cans and suddenly you hear the toilet flush in the store bathroom. Out comes a woman who is physically fit and looks like she can fight.
+
+**[introduce yourself and offer to team up with her]**
+
+**[keep to yourself because you think she will see you as a drawback]**
+
 ---
 
 ## [take one down to eat]
@@ -90,6 +98,7 @@ wild zebras that escaped the zoo.
 You've never taken down a zebra, but hunger doesn't discriminate. Your only weapon is the bat but you can make it work. After you take the zebra down, you use a lighter you collected to start a fire and cook some of the meat. Then you notice it's getting dark. Do you:
 
 **[find a place to sleep where you are]**
+
 **[continue exploring]**
 
 ## [Find a safe place to stay]
@@ -101,6 +110,13 @@ Your safety comes first and for most. So the best option for now was to find a s
 **[turn around and run]**
 
 ---
+
+## [opt for some other food]
+
+You walk around the store and collect some food items that you think will last. Some beef jerky, cereal, power bars, and some water. Fully kitted now and hunger sated, you leave the store. Down the street, you see the a horde of monster humans attacking another person. Armed with nothing, do you:
+
+**[risk your life and try to save them]**
+**[cut your losses and move on]**
 
 ## [Ignore Them and Keep moving]
 
